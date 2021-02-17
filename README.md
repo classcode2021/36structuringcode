@@ -1,1 +1,2 @@
-# c36structuring
+# synchronousBallMovement
+Ball moving synchronously
